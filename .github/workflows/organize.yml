@@ -1,0 +1,39 @@
+name: Organize LeetCode Solutions
+
+# Runs automatically whenever LeetHub-Neo pushes a new solution into raw/,
+# and rebuilds the Language/Difficulty/Topic structure + README indexes.
+# You never run anything manually — this is the "no script" path.
+
+on:
+  push:
+    paths:
+      - "raw/**"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab if you ever want to
+
+permissions:
+  contents: write
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run reorganizer
+        run: python scripts/reorganize.py
+
+      - name: Commit organized structure
+        run: |
+          git config user.name "leetcode-organizer-bot"
+          git config user.email "actions@github.com"
+          git add -A -- ':!raw'
+          git diff --cached --quiet || git commit -m "Auto-organize: sync Language/Difficulty/Topic structure"
+          git push
