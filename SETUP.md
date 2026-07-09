@@ -1,65 +1,45 @@
-# Setup: leetcode-practice auto-organizer
+# Setup: leetcode-practice auto-organizer (LeetHub v2)
 
-One-time setup, then it runs itself forever.
+## What's already done
+- [x] GitHub repo created
+- [x] `scripts/reorganize.py` and `.github/workflows/organize.yml` pushed to the repo
 
-## 1. Create the GitHub repo
+## Remaining steps
 
-1. Go to github.com/new
-2. Name: `leetcode-practice`
-3. Public (recruiters/LinkedIn will link here), no README/gitignore needed — leave empty
-4. Create repository
+### 1. Install LeetHub v2
+Chrome Web Store -> search "LeetHub" by **arunbhardwaj** -> Add to Chrome -> pin it.
 
-## 2. Add these files to the repo
+### 2. Authorize with GitHub
+Click the LeetHub icon -> "Authorize with GitHub" -> approve the popup.
 
-Copy this whole `leetcode-automation` folder's contents into your new repo's root:
+### 3. Connect it to your repo
+Click "Get Started" in the popup -> choose your existing **leetcode-practice**
+repo (don't let it create a new one). There is **no folder/path setting** in
+v2 — it always writes new problem folders straight into the repo root. That's
+expected; the GitHub Action handles moving them into place automatically.
 
-```
-leetcode-practice/
-├── .github/workflows/organize.yml   <- the automation
-├── scripts/reorganize.py            <- the reorganizer
-└── SETUP.md
-```
+### 4. Solve a problem to test it
+1. Go to leetcode.com, solve (or resubmit) any Easy problem, get **Accepted**
+2. Check your repo after ~15-30 seconds — a new flat folder should appear at
+   root, named after the problem
+3. Wait another ~30-60 seconds (GitHub Action running) and refresh again —
+   that flat folder should be **gone**, replaced by
+   `Python/Easy/<Topic>/<problem-name>/` (or `SQL/...`), and the root
+   `README.md` should now list it in a table
 
-Commit and push these to `main`.
-
-## 3. Install LeetHub-Neo
-
-1. Chrome Web Store → search "LeetHub-Neo" → Add to Chrome
-   (this is the actively maintained fork — the older LeetHub / LeetHub-2.0
-   have open sync bugs right now, so use LeetHub-Neo)
-2. Click the extension icon → "Authorize with GitHub"
-3. Select repository: `leetcode-practice`
-4. **Important — set the sync folder to `raw`** (Settings → Repository folder
-   setting). This keeps LeetHub-Neo's flat output isolated so the Action can
-   reorganize it without fighting your clean structure.
-5. In Settings, turn **off** "automatic root README updates" but leave
-   "problem and topic syncing" **on** — `reorganize.py` owns the root README now.
-
-## 4. Solve problems as normal
-
-Every time you get an Accepted verdict on LeetCode:
-1. LeetHub-Neo pushes the solution + README into `raw/<problem-slug>/`
-2. That push triggers the GitHub Action
-3. The Action reads difficulty + topics from LeetHub-Neo's README, sorts the
-   problem into `Python/Medium/Arrays/...` or `SQL/Easy/Joins/...`, and
-   rebuilds the index tables
-4. You do nothing. Refresh the repo in ~30 seconds to see it organized.
-
-## 5. First-run check
-
-The very first time this runs, open one of the generated files under
-`Python/<Difficulty>/<Topic>/` and confirm the difficulty and topic look
-right. LeetHub-Neo's README wording can vary slightly by version — if
-`scripts/reorganize.py` mis-parses it (e.g. everything lands in
-"Uncategorized"), send me what a real `raw/<problem>/README.md` looks like
-and I'll adjust the regex in `parse_metadata()` to match exactly.
+### 5. If a problem lands in "Uncategorized"
+The script asks LeetCode's own API for the official difficulty/topics by
+problem slug first (most reliable), and only falls back to reading LeetHub's
+generated README.md if that lookup fails. If you see "Uncategorized" for a
+problem, it usually means the folder name didn't convert cleanly to a
+LeetCode slug — send me the exact folder name LeetHub created and I'll fix
+the conversion logic.
 
 ## Result structure
 
 ```
 leetcode-practice/
-├── README.md              <- master index, auto-rebuilt
-├── raw/                   <- LeetHub-Neo's staging area (ignore this)
+├── README.md              <- master index, auto-rebuilt every push
 ├── Python/
 │   ├── README.md          <- per-language index
 │   ├── Easy/
@@ -72,3 +52,11 @@ leetcode-practice/
     ├── Easy/Joins/<problem>/
     └── Medium/...
 ```
+
+## How it stays clean automatically
+Every time LeetHub v2 drops a new flat folder at root, the Action:
+1. Looks up the problem's real difficulty + topics from LeetCode's API
+2. **Moves** the folder into `Language/Difficulty/Topic/`
+3. Deletes the flat original (so root never gets cluttered)
+4. Rebuilds `README.md` and every `<Language>/README.md`
+5. Commits and pushes — automatically, in the cloud, no action from you
