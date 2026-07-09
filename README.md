@@ -7,11 +7,3 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
 | 1280-students-and-examinations | SQL | Easy | Database | [SQL/Easy/Database/1280-students-and-examinations](SQL/Easy/Database/1280-students-and-examinations) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1280-students-and-examinations](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1280-students-and-examinations) |
-<!---LeetCode Topics End-->
