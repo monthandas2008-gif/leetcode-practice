@@ -34,10 +34,27 @@ jobs:
       - name: Run reorganizer
         run: python scripts/reorganize.py
 
-      - name: Commit organized structure
+      - name: Commit and push organized structure
         run: |
           git config user.name "leetcode-organizer-bot"
           git config user.email "actions@github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "Auto-organize: sync Language/Difficulty/Topic structure"
-          git push
+          git diff --cached --quiet && { echo "No changes to commit."; exit 0; }
+          git commit -m "Auto-organize: sync Language/Difficulty/Topic structure"
+
+          # Retry push up to 5 times: if another push (e.g. LeetHub itself)
+          # landed on main while this job was running, pull --rebase to
+          # catch up, then try again. This resolves the race condition
+          # between LeetHub's own commits and this Action's commits.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded."
+              break
+            fi
+            echo "Push rejected (attempt $i/5) — pulling latest changes and retrying..."
+            git pull --rebase --autostash origin main
+            if [ "$i" -eq 5 ]; then
+              echo "Push still failing after 5 attempts — giving up for this run."
+              exit 1
+            fi
+          done
