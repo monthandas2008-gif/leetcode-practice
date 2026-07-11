@@ -11,11 +11,3 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 2356-number-of-unique-subjects-taught-by-each-teacher | SQL | Easy | Database | [SQL/Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher](SQL/Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | 0602-friend-requests-ii-who-has-the-most-friends | SQL | Medium | Database | [SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1070-product-sales-analysis-iii](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1070-product-sales-analysis-iii) |
-<!---LeetCode Topics End-->
