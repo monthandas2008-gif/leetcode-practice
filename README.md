@@ -9,3 +9,11 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1280-students-and-examinations | SQL | Easy | Database | [SQL/Easy/Database/1280-students-and-examinations](SQL/Easy/Database/1280-students-and-examinations) |
 | 1661-average-time-of-process-per-machine | SQL | Easy | Database | [SQL/Easy/Database/1661-average-time-of-process-per-machine](SQL/Easy/Database/1661-average-time-of-process-per-machine) |
 | 0602-friend-requests-ii-who-has-the-most-friends | SQL | Medium | Database | [SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+<!---LeetCode Topics End-->
