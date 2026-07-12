@@ -2,7 +2,7 @@
 
 Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/reorganize.py` on every push. Solutions land here automatically via LeetHub v2 -> GitHub Action.
 
-**Total problems:** 5
+**Total problems:** 6
 
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
@@ -11,11 +11,4 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 2356-number-of-unique-subjects-taught-by-each-teacher | SQL | Easy | Database | [SQL/Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher](SQL/Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | 0602-friend-requests-ii-who-has-the-most-friends | SQL | Medium | Database | [SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1174-immediate-food-delivery-ii](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1174-immediate-food-delivery-ii) |
-<!---LeetCode Topics End-->
+| 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
