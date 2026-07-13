@@ -2,6 +2,7 @@
 
 | Problem | Difficulty | Topics | Path |
 |---|---|---|---|
+| 0596-classes-with-at-least-5-students | Easy | Database | [Easy/Database/0596-classes-with-at-least-5-students](Easy/Database/0596-classes-with-at-least-5-students) |
 | 1280-students-and-examinations | Easy | Database | [Easy/Database/1280-students-and-examinations](Easy/Database/1280-students-and-examinations) |
 | 1661-average-time-of-process-per-machine | Easy | Database | [Easy/Database/1661-average-time-of-process-per-machine](Easy/Database/1661-average-time-of-process-per-machine) |
 | 1729-find-followers-count | Easy | Database | [Easy/Database/1729-find-followers-count](Easy/Database/1729-find-followers-count) |
