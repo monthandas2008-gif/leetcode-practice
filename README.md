@@ -14,3 +14,11 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 0602-friend-requests-ii-who-has-the-most-friends | SQL | Medium | Database | [SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](SQL/Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/0619-biggest-single-number) |
+<!---LeetCode Topics End-->
