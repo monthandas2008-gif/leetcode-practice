@@ -11,5 +11,6 @@
 | 1978-employees-whose-manager-left-the-company | Easy | Database | [Easy/Database/1978-employees-whose-manager-left-the-company](Easy/Database/1978-employees-whose-manager-left-the-company) |
 | 2356-number-of-unique-subjects-taught-by-each-teacher | Easy | Database | [Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher](Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | 0602-friend-requests-ii-who-has-the-most-friends | Medium | Database | [Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
+| 1045-customers-who-bought-all-products | Medium | Database | [Medium/Database/1045-customers-who-bought-all-products](Medium/Database/1045-customers-who-bought-all-products) |
 | 1070-product-sales-analysis-iii | Medium | Database | [Medium/Database/1070-product-sales-analysis-iii](Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | Medium | Database | [Medium/Database/1174-immediate-food-delivery-ii](Medium/Database/1174-immediate-food-delivery-ii) |
