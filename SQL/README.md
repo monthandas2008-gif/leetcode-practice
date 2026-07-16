@@ -8,6 +8,7 @@
 | 1280-students-and-examinations | Easy | Database | [Easy/Database/1280-students-and-examinations](Easy/Database/1280-students-and-examinations) |
 | 1661-average-time-of-process-per-machine | Easy | Database | [Easy/Database/1661-average-time-of-process-per-machine](Easy/Database/1661-average-time-of-process-per-machine) |
 | 1729-find-followers-count | Easy | Database | [Easy/Database/1729-find-followers-count](Easy/Database/1729-find-followers-count) |
+| 1731-the-number-of-employees-which-report-to-each-employee | Easy | Database | [Easy/Database/1731-the-number-of-employees-which-report-to-each-employee](Easy/Database/1731-the-number-of-employees-which-report-to-each-employee) |
 | 1978-employees-whose-manager-left-the-company | Easy | Database | [Easy/Database/1978-employees-whose-manager-left-the-company](Easy/Database/1978-employees-whose-manager-left-the-company) |
 | 2356-number-of-unique-subjects-taught-by-each-teacher | Easy | Database | [Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher](Easy/Database/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | 0602-friend-requests-ii-who-has-the-most-friends | Medium | Database | [Medium/Database/0602-friend-requests-ii-who-has-the-most-friends](Medium/Database/0602-friend-requests-ii-who-has-the-most-friends) |
