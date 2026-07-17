@@ -4,6 +4,7 @@
 |---|---|---|---|
 | 0596-classes-with-at-least-5-students | Easy | Database | [Easy/Database/0596-classes-with-at-least-5-students](Easy/Database/0596-classes-with-at-least-5-students) |
 | 0619-biggest-single-number | Easy | Database | [Easy/Database/0619-biggest-single-number](Easy/Database/0619-biggest-single-number) |
+| 1075-project-employees-i | Easy | Database | [Easy/Database/1075-project-employees-i](Easy/Database/1075-project-employees-i) |
 | 1141-user-activity-for-the-past-30-days-i | Easy | Database | [Easy/Database/1141-user-activity-for-the-past-30-days-i](Easy/Database/1141-user-activity-for-the-past-30-days-i) |
 | 1251-average-selling-price | Easy | Database | [Easy/Database/1251-average-selling-price](Easy/Database/1251-average-selling-price) |
 | 1280-students-and-examinations | Easy | Database | [Easy/Database/1280-students-and-examinations](Easy/Database/1280-students-and-examinations) |

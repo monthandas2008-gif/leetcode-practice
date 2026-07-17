@@ -2,12 +2,13 @@
 
 Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/reorganize.py` on every push. Solutions land here automatically via LeetHub v2 -> GitHub Action.
 
-**Total problems:** 14
+**Total problems:** 15
 
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
 | 0596-classes-with-at-least-5-students | SQL | Easy | Database | [SQL/Easy/Database/0596-classes-with-at-least-5-students](SQL/Easy/Database/0596-classes-with-at-least-5-students) |
 | 0619-biggest-single-number | SQL | Easy | Database | [SQL/Easy/Database/0619-biggest-single-number](SQL/Easy/Database/0619-biggest-single-number) |
+| 1075-project-employees-i | SQL | Easy | Database | [SQL/Easy/Database/1075-project-employees-i](SQL/Easy/Database/1075-project-employees-i) |
 | 1141-user-activity-for-the-past-30-days-i | SQL | Easy | Database | [SQL/Easy/Database/1141-user-activity-for-the-past-30-days-i](SQL/Easy/Database/1141-user-activity-for-the-past-30-days-i) |
 | 1251-average-selling-price | SQL | Easy | Database | [SQL/Easy/Database/1251-average-selling-price](SQL/Easy/Database/1251-average-selling-price) |
 | 1280-students-and-examinations | SQL | Easy | Database | [SQL/Easy/Database/1280-students-and-examinations](SQL/Easy/Database/1280-students-and-examinations) |
@@ -20,11 +21,3 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1045-customers-who-bought-all-products | SQL | Medium | Database | [SQL/Medium/Database/1045-customers-who-bought-all-products](SQL/Medium/Database/1045-customers-who-bought-all-products) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1075-project-employees-i](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1075-project-employees-i) |
-<!---LeetCode Topics End-->
