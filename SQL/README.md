@@ -6,6 +6,7 @@
 | 0619-biggest-single-number | Easy | Database | [Easy/Database/0619-biggest-single-number](Easy/Database/0619-biggest-single-number) |
 | 1075-project-employees-i | Easy | Database | [Easy/Database/1075-project-employees-i](Easy/Database/1075-project-employees-i) |
 | 1141-user-activity-for-the-past-30-days-i | Easy | Database | [Easy/Database/1141-user-activity-for-the-past-30-days-i](Easy/Database/1141-user-activity-for-the-past-30-days-i) |
+| 1211-queries-quality-and-percentage | Easy | Database | [Easy/Database/1211-queries-quality-and-percentage](Easy/Database/1211-queries-quality-and-percentage) |
 | 1251-average-selling-price | Easy | Database | [Easy/Database/1251-average-selling-price](Easy/Database/1251-average-selling-price) |
 | 1280-students-and-examinations | Easy | Database | [Easy/Database/1280-students-and-examinations](Easy/Database/1280-students-and-examinations) |
 | 1633-percentage-of-users-attended-a-contest | Easy | Database | [Easy/Database/1633-percentage-of-users-attended-a-contest](Easy/Database/1633-percentage-of-users-attended-a-contest) |
