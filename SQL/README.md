@@ -3,6 +3,7 @@
 | Problem | Difficulty | Topics | Path |
 |---|---|---|---|
 | 0596-classes-with-at-least-5-students | Easy | Database | [Easy/Database/0596-classes-with-at-least-5-students](Easy/Database/0596-classes-with-at-least-5-students) |
+| 0610-triangle-judgement | Easy | Database | [Easy/Database/0610-triangle-judgement](Easy/Database/0610-triangle-judgement) |
 | 0619-biggest-single-number | Easy | Database | [Easy/Database/0619-biggest-single-number](Easy/Database/0619-biggest-single-number) |
 | 1075-project-employees-i | Easy | Database | [Easy/Database/1075-project-employees-i](Easy/Database/1075-project-employees-i) |
 | 1141-user-activity-for-the-past-30-days-i | Easy | Database | [Easy/Database/1141-user-activity-for-the-past-30-days-i](Easy/Database/1141-user-activity-for-the-past-30-days-i) |
