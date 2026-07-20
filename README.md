@@ -24,3 +24,11 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1045-customers-who-bought-all-products | SQL | Medium | Database | [SQL/Medium/Database/1045-customers-who-bought-all-products](SQL/Medium/Database/1045-customers-who-bought-all-products) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/0610-triangle-judgement) |
+<!---LeetCode Topics End-->
