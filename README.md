@@ -2,7 +2,7 @@
 
 Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/reorganize.py` on every push. Solutions land here automatically via LeetHub v2 -> GitHub Action.
 
-**Total problems:** 19
+**Total problems:** 20
 
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
@@ -25,11 +25,4 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1045-customers-who-bought-all-products | SQL | Medium | Database | [SQL/Medium/Database/1045-customers-who-bought-all-products](SQL/Medium/Database/1045-customers-who-bought-all-products) |
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1907-count-salary-categories](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1907-count-salary-categories) |
-<!---LeetCode Topics End-->
+| 1907-count-salary-categories | SQL | Medium | Database | [SQL/Medium/Database/1907-count-salary-categories](SQL/Medium/Database/1907-count-salary-categories) |
