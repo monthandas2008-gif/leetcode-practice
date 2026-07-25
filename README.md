@@ -2,7 +2,7 @@
 
 Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/reorganize.py` on every push. Solutions land here automatically via LeetHub v2 -> GitHub Action.
 
-**Total problems:** 20
+**Total problems:** 21
 
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1280-students-and-examinations | SQL | Easy | Database | [SQL/Easy/Database/1280-students-and-examinations](SQL/Easy/Database/1280-students-and-examinations) |
 | 1633-percentage-of-users-attended-a-contest | SQL | Easy | Database | [SQL/Easy/Database/1633-percentage-of-users-attended-a-contest](SQL/Easy/Database/1633-percentage-of-users-attended-a-contest) |
 | 1661-average-time-of-process-per-machine | SQL | Easy | Database | [SQL/Easy/Database/1661-average-time-of-process-per-machine](SQL/Easy/Database/1661-average-time-of-process-per-machine) |
+| 1667-fix-names-in-a-table | SQL | Easy | Database | [SQL/Easy/Database/1667-fix-names-in-a-table](SQL/Easy/Database/1667-fix-names-in-a-table) |
 | 1729-find-followers-count | SQL | Easy | Database | [SQL/Easy/Database/1729-find-followers-count](SQL/Easy/Database/1729-find-followers-count) |
 | 1731-the-number-of-employees-which-report-to-each-employee | SQL | Easy | Database | [SQL/Easy/Database/1731-the-number-of-employees-which-report-to-each-employee](SQL/Easy/Database/1731-the-number-of-employees-which-report-to-each-employee) |
 | 1789-primary-department-for-each-employee | SQL | Easy | Database | [SQL/Easy/Database/1789-primary-department-for-each-employee](SQL/Easy/Database/1789-primary-department-for-each-employee) |
@@ -26,11 +27,3 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
 | 1907-count-salary-categories | SQL | Medium | Database | [SQL/Medium/Database/1907-count-salary-categories](SQL/Medium/Database/1907-count-salary-categories) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1667-fix-names-in-a-table](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1667-fix-names-in-a-table) |
-<!---LeetCode Topics End-->
