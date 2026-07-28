@@ -27,3 +27,11 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1070-product-sales-analysis-iii | SQL | Medium | Database | [SQL/Medium/Database/1070-product-sales-analysis-iii](SQL/Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
 | 1907-count-salary-categories | SQL | Medium | Database | [SQL/Medium/Database/1907-count-salary-categories](SQL/Medium/Database/1907-count-salary-categories) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1341-movie-rating](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1341-movie-rating) |
+<!---LeetCode Topics End-->
