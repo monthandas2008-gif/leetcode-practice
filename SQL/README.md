@@ -22,4 +22,5 @@
 | 1045-customers-who-bought-all-products | Medium | Database | [Medium/Database/1045-customers-who-bought-all-products](Medium/Database/1045-customers-who-bought-all-products) |
 | 1070-product-sales-analysis-iii | Medium | Database | [Medium/Database/1070-product-sales-analysis-iii](Medium/Database/1070-product-sales-analysis-iii) |
 | 1174-immediate-food-delivery-ii | Medium | Database | [Medium/Database/1174-immediate-food-delivery-ii](Medium/Database/1174-immediate-food-delivery-ii) |
+| 1341-movie-rating | Medium | Database | [Medium/Database/1341-movie-rating](Medium/Database/1341-movie-rating) |
 | 1907-count-salary-categories | Medium | Database | [Medium/Database/1907-count-salary-categories](Medium/Database/1907-count-salary-categories) |
