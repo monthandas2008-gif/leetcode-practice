@@ -2,7 +2,7 @@
 
 Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/reorganize.py` on every push. Solutions land here automatically via LeetHub v2 -> GitHub Action.
 
-**Total problems:** 22
+**Total problems:** 23
 
 | Problem | Language | Difficulty | Topics | Path |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1211-queries-quality-and-percentage | SQL | Easy | Database | [SQL/Easy/Database/1211-queries-quality-and-percentage](SQL/Easy/Database/1211-queries-quality-and-percentage) |
 | 1251-average-selling-price | SQL | Easy | Database | [SQL/Easy/Database/1251-average-selling-price](SQL/Easy/Database/1251-average-selling-price) |
 | 1280-students-and-examinations | SQL | Easy | Database | [SQL/Easy/Database/1280-students-and-examinations](SQL/Easy/Database/1280-students-and-examinations) |
+| 1527-patients-with-a-condition | SQL | Easy | Database | [SQL/Easy/Database/1527-patients-with-a-condition](SQL/Easy/Database/1527-patients-with-a-condition) |
 | 1633-percentage-of-users-attended-a-contest | SQL | Easy | Database | [SQL/Easy/Database/1633-percentage-of-users-attended-a-contest](SQL/Easy/Database/1633-percentage-of-users-attended-a-contest) |
 | 1661-average-time-of-process-per-machine | SQL | Easy | Database | [SQL/Easy/Database/1661-average-time-of-process-per-machine](SQL/Easy/Database/1661-average-time-of-process-per-machine) |
 | 1667-fix-names-in-a-table | SQL | Easy | Database | [SQL/Easy/Database/1667-fix-names-in-a-table](SQL/Easy/Database/1667-fix-names-in-a-table) |
@@ -28,11 +29,3 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
 | 1341-movie-rating | SQL | Medium | Database | [SQL/Medium/Database/1341-movie-rating](SQL/Medium/Database/1341-movie-rating) |
 | 1907-count-salary-categories | SQL | Medium | Database | [SQL/Medium/Database/1907-count-salary-categories](SQL/Medium/Database/1907-count-salary-categories) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1527-patients-with-a-condition](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1527-patients-with-a-condition) |
-<!---LeetCode Topics End-->
