@@ -28,3 +28,11 @@ Auto-generated index. Do not edit by hand -- this file is rebuilt by `scripts/re
 | 1174-immediate-food-delivery-ii | SQL | Medium | Database | [SQL/Medium/Database/1174-immediate-food-delivery-ii](SQL/Medium/Database/1174-immediate-food-delivery-ii) |
 | 1341-movie-rating | SQL | Medium | Database | [SQL/Medium/Database/1341-movie-rating](SQL/Medium/Database/1341-movie-rating) |
 | 1907-count-salary-categories | SQL | Medium | Database | [SQL/Medium/Database/1907-count-salary-categories](SQL/Medium/Database/1907-count-salary-categories) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/monthandas2008-gif/leetcode-practice/tree/master/1527-patients-with-a-condition) |
+<!---LeetCode Topics End-->
